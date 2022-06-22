@@ -1,0 +1,4 @@
+treino: (!./)darknet_no_gpu detector train /Users/Castro/Desktop/Yolo2/darknet/data/obj_paulo.data /Users/Castro/Desktop/Yolo2/darknet/my_tiny.cfg /Users/Castro/Desktop/Yolo2/yolov4.conv.137 -dont_show -map
+
+teste : (!./)darknet_no_gpu detector test /Users/Castro/Desktop/Yolo2/darknet/data/obj.data /Users/Castro/Desktop/Yolo2/darknet/my_tiny.cfg /Users/Castro/Desktop/Yolo2/backup/my_tiny_best.weights /Users/Castro/Desktop/Yolo2/imgTeste/img2.png
+	imShow('predictions.jpg')
