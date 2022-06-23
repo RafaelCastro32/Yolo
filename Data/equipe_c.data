@@ -1,5 +1,5 @@
 classes= 36
-train  = /Users/Castro/Desktop/Yolo2/darknet/data/train.txt
-valid  =/Users/Castro/Desktop/Yolo2/darknet/data/test.txt
-names = /Users/Castro/Desktop/Yolo2/darknet/data/obj.names
-backup = /Users/Castro/Desktop/Yolo2/backup
+train  = /content/Yolo/Data/train.txt
+valid  =/content/Yolo/Data/test.txt
+names = /content/Yolo/Data/equipe_c.names
+backup = /content/Yolo/backup
