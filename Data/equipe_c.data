@@ -2,4 +2,4 @@ classes= 36
 train  = /content/Yolo/Data/train.txt
 valid  =/content/Yolo/Data/test.txt
 names = /content/Yolo/Data/equipe_c.names
-backup = /content/Yolo/backup
+backup = /content/Yolo/pesos
